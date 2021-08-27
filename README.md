@@ -1,4 +1,4 @@
-### Hi them. I'm Hai!
+### Hi them. I'm Clizz!
 
 - 🔭 I’m currently make project **Dopamin Bot** and **Simple Diple Bot**
 - 🌱 I’m currently learning **Javascript, Java** and **pyhton**
