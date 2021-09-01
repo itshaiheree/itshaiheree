@@ -15,8 +15,8 @@
 <hr>
 
 ### My Github Stats 🛠
-[![ThisIsHai GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisIsHai&show_icons=true&theme=algolia)](https://github.com/ThisIsHai/ThisIsHai)
-[![Top Langs On My Profile Or Repoosity](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsHai&layout=compact&theme=algolia)](https://github.com/ThisIsHai)
+[![ThisIsHai GitHub stats](https://github-readme-stats.vercel.app/api?username=justClizz&show_icons=true&theme=algolia)](https://github.com/justClizz/justClizz)
+[![Top Langs On My Profile Or Repoosity](https://github-readme-stats.vercel.app/api/top-langs/?username=justClizz&layout=compact&theme=algolia)](https://github.com/justClizz)
 
 ### Thanks for vist my profile!
 
