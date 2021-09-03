@@ -3,13 +3,13 @@
 - 🔭 I’m currently make project **Dopamin Bot** and **Simple Diple Bot**
 - 🌱 I’m currently learning **Javascript, Java** and **pyhton**
 - 💬 Ask me about **Whatsapp or Discord bot**
-- ⚡ Fun fact: I like cats, Meow!
+- ⚡ Fun fact: **I like cats, Meow!**
 
 <hr> 
 
 ### Links
 - Main Website: https://rocistudios.xyz
-- Instagram: https://instagram.com/clumbuzz
+- Instagram: https://instagram.com/justclizz
 - Twitter (I twitted something! But, that useless, BRUH): https://twitter.com/@clumbuz
 
 <hr>
