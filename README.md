@@ -1,6 +1,5 @@
-### Hi them. I'm Clizz!
+### Hi them. I'm Muhammad Haikal (Cliz)!
 
-- 🔭 I’m currently make project **Dopamin Bot** and **Simple Diple Bot**
 - 🌱 I’m currently learning **Javascript, Java** and **Pyhton**
 - 💬 Ask me about **Memes or code**
 - ⚡ Fun fact: **I have you IP adress, kiddo**
