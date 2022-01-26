@@ -1,16 +1,16 @@
 ### Hi them. I'm Clizz!
 
 - 🔭 I’m currently make project **Dopamin Bot** and **Simple Diple Bot**
-- 🌱 I’m currently learning **Javascript, Java** and **pyhton**
-- 💬 Ask me about **Whatsapp or Discord bot**
-- ⚡ Fun fact: **I like cats, Meow!**
+- 🌱 I’m currently learning **Javascript, Java** and **Pyhton**
+- 💬 Ask me about **Memes or code**
+- ⚡ Fun fact: **I have you IP adress, kiddo**
 
 <hr> 
 
 ### Links
 - Main Website: https://rocistudios.xyz
-- Instagram: https://instagram.com/justclizz
-- Twitter (I twitted something! But, that useless, BRUH): https://twitter.com/@clumbuz
+- Instagram: https://instagram.com/kliz.mp4
+- Twitter (Useless): https://twitter.com/@justClizz
 
 <hr>
 
