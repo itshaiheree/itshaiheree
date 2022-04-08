@@ -15,11 +15,6 @@
 
 ### My Github Stats 🛠
 [![ThisIsHai GitHub stats](https://github-readme-stats.vercel.app/api?username=justClizz&show_icons=true)](https://github.com/justClizz)
-[![Top Langs On My Profile Or Repoosity](https://github-readme-stats.vercel.app/api/top-langs/?username=justClizz)](https://github.com/justClizz)
-
-### Mau Ngoding's Stats
-[![Mau Ngoding GitHub stats](https://github-readme-stats.vercel.app/api?username=maungoding&show_icons=true)](https://github.com/maungoding)
-[![Top Langs On My Profile Or Repoosity](https://github-readme-stats.vercel.app/api/top-langs/?username=maungoding)](https://github.com/maungoding)
 
 ### Thanks for vist my profile!
 
