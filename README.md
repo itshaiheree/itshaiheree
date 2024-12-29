@@ -1,15 +1,12 @@
-### Hi them. I'm Muhammad Haikal (Cliz)!
-
-- 🌱 I’m currently learning **Javascript, Java** and **Pyhton**
-- 💬 Ask me about **Memes or code**
-- ⚡ Fun fact: **I have you IP adress, kiddo**
+### Hi there, I'm Muhammad Haikal Ali Abdillah (Haikal)!
+Just an ordinary kids from Indonesia who loves code and you, lol
 
 <hr> 
 
 ### Links
-- Main Website: https://maungoding.xyz
-- Instagram: https://instagram.com/kliz.mp4
-- Twitter (Useless): https://twitter.com/@justClizz
+- Main Website: https://mhai.my.id
+- Instagram: https://instagram.com/panggilakuhaii
+- X (Useless): https://twitter.com/@panggilakuhaiii
 
 <hr>
 
