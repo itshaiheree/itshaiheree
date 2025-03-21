@@ -5,8 +5,8 @@ Just an ordinary kids from Indonesia who loves code and you, lol
 
 ### Links
 - Main Website: https://mhai.my.id
-- Instagram: https://instagram.com/panggilakuhaii
-- X (Useless): https://twitter.com/@panggilakuhaiii
+- Instagram: https://instagram.com/itshaiheree
+- X (Useless): https://x.com/@itshaiheree
 
 <hr>
 
