@@ -11,7 +11,7 @@ Just an ordinary kids from Indonesia who loves code and you, lol
 <hr>
 
 ### My Github Stats 🛠
-[![ThisIsHai GitHub stats](https://github-readme-stats.vercel.app/api?username=justClizz&show_icons=true)](https://github.com/justClizz)
+[![ThisIsHai GitHub stats](https://github-readme-stats.vercel.app/api?username=itshaiheree&show_icons=true)](https://github.com/itshaiheree)
 
 ### Thanks for vist my profile!
 
