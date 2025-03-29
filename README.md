@@ -1,5 +1,5 @@
 ### Hi there, I'm Muhammad Haikal Ali Abdillah (Haikal)!
-Just an ordinary kids from Indonesia who loves code and you, lol
+Just an ordinary kid from Indonesia who loves code and her :3
 
 <hr> 
 
