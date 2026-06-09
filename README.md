@@ -1,4 +1,6 @@
-## Hi there, I'm Muhammad Haikal Ali Abdillah (Haikal)!
+## Hi there, I'm Muhammad Haikal Ali Abdillah!
+You can call me "Haikal" (also "Hai")
+
 Just an ordinary kid from Indonesia who loves code and her :3
 
 <hr> 
