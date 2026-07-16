@@ -17,7 +17,7 @@ Here is the project i'm working on right now<br>
 
 <div align="center">
 
-[![My GitHub stats-Dark](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=dark#gh-dark-mode-only)]()&nbsp;&nbsp;&nbsp;[![My GitHub stats-Light](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=default#gh-light-mode-only)]()&nbsp;&nbsp;[![My GitHub repo-Dark](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=dark#gh-dark-mode-only)]()&nbsp;&nbsp;&nbsp;[![My GitHub repo-Light](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=default#gh-light-mode-only)]()
+[![My GitHub stats-Dark](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/itshaiheree#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub stats-Light](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/itshaiheree#gh-light-mode-only)&nbsp;&nbsp;[![My GitHub repo-Dark](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/itshaiheree#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub repo-Light](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=default#gh-light-mode-only)](https://github.com/itshaiheree#gh-light-mode-only)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
