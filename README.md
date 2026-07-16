@@ -40,7 +40,7 @@ Here is the project i'm working on right now<br>
 
 <div align="right">
 <h2>🤍 Thanks for visiting my profile!</h2>
-<img src="https://c.tenor.com/AYE0sypnFJAAAAAC/tenor.gif" width="150" height="150" align="left" />Let's have a connection!<br>Contact me via email at <a href="mailto:hello@mhai.my.id">hello@mhai.my.id</a> if you interested
+<img src="https://c.tenor.com/AYE0sypnFJAAAAAC/tenor.gif" height="150" align="left" />Let's have a connection!<br>Contact me via email at <a href="mailto:hello@mhai.my.id">hello@mhai.my.id</a> if you interested
 </div>
 <br clear="left" />
 </div>
