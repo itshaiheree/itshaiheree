@@ -6,7 +6,7 @@
 
 <div align="left">
 <h2>⭐ Current Project</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default"><img src="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default" align="right" /></picture></a>
+<a href="https://github.com/itshaiheree/tahun-baru-countdown"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default"><img src="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default" align="right" /></picture></a>
 Here is the project i'm working on right now<br>
 (but i'm not sure i'll do regular updates on it XD)
 </div>
@@ -17,7 +17,7 @@ Here is the project i'm working on right now<br>
 
 <div align="center">
 
-[![My GitHub stats-Dark](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub stats-Light](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)&nbsp;&nbsp;[![My GitHub repo-Dark](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub repo-Light](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![My GitHub stats-Dark](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=dark#gh-dark-mode-only)]()&nbsp;&nbsp;&nbsp;[![My GitHub stats-Light](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=default#gh-light-mode-only)]()&nbsp;&nbsp;[![My GitHub repo-Dark](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=dark#gh-dark-mode-only)]()&nbsp;&nbsp;&nbsp;[![My GitHub repo-Light](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=default#gh-light-mode-only)]()
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
