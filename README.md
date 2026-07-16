@@ -24,7 +24,11 @@ Here is the project i'm working on right now (but i'm not sure i'll do regular u
 <div align="center">
 
 [![My GitHub stats-Dark](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub stats-Light](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)&nbsp;&nbsp;[![My GitHub repo-Dark](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub repo-Light](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="itshaiheree's GitHub profile" src="dark_mode.svg" width="850" height="850"/>
+</picture>
 </div>
 <hr>
 
