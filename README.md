@@ -1,22 +1,16 @@
 <div align="center">
-<img src="https://c.tenor.com/l9Q1RLUr2x4AAAAd/tenor.gif" width="150" height="150" />
-  
-## 👋 Hi there!
 
-### I'm Muhammad Haikal Ali Abdillah!
-
-You can call me <b>"Haikal"</b> (also <b>"Hai"</b>)
-
-Just an ordinary kid from Indonesia who loves code and her :3
-
+<div align="left"><h2>👋 Hi there!</h2><img src="https://c.tenor.com/l9Q1RLUr2x4AAAAd/tenor.gif" width="150" align="right" /><h3>I'm Muhammad Haikal Ali Abdillah!</h3>You can call me <b>"Haikal"</b> (also <b>"Hai"</b>)<br><br>Just an ordinary kid from Indonesia who loves code and her :3</div>
+<br clear="right" />
 <hr>
 
-### ⭐ Current Project
-Here is the project i'm working on right now (but i'm not sure i'll do regular updates on it XD)
-
-[![My GitHub repo-Dark](https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-[![My GitHub repo-Light](https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
-
+<div align="left">
+<h2>⭐ Current Project</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default"><img src="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default" align="right" /></picture></a>
+Here is the project i'm working on right now<br>
+(but i'm not sure i'll do regular updates on it XD)
+</div>
+<br clear="right" />
 <hr>
 
 ### 📊 My Github Stats
@@ -44,8 +38,9 @@ Here is the project i'm working on right now (but i'm not sure i'll do regular u
 
 <hr>
 
-<img src="https://c.tenor.com/AYE0sypnFJAAAAAC/tenor.gif" width="150" height="150" />
-
-### 🤍 Thanks for vist my profile!
-Let's have a connection! Contact me via email at [hello@mhai.my.id](mailto:hello@mhai.my.id) if you interested
+<div align="right">
+<h2>🤍 Thanks for visiting my profile!</h2>
+<img src="https://c.tenor.com/AYE0sypnFJAAAAAC/tenor.gif" width="150" height="150" align="left" />Let's have a connection!<br>Contact me via email at <a href="mailto:hello@mhai.my.id">hello@mhai.my.id</a> if you interested
+</div>
+<br clear="left" />
 </div>
