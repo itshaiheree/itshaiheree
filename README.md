@@ -4,10 +4,10 @@
 <br clear="right" />
 <hr>
 
-<div align="left">
-<h2>⭐ Highlighted Project</h2>
+<div>
+<h2 >⭐ Highlighted Project</h2>
   
-<a href="https://github.com/itshaiheree/tahun-baru-countdown"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default"><img src="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default" align="right" /></picture></a>
+<a href="https://github.com/itshaiheree/tahun-baru-countdown"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default"><img src="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default" align="center" /></picture></a>
 </div>
 <br clear="right" />
 <hr>
