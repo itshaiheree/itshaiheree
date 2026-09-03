@@ -4,27 +4,6 @@
 <br clear="right" />
 <hr>
 
-<div>
-<h2 >⭐ Highlighted Project</h2>
-  
-<a href="https://github.com/itshaiheree/tahun-baru-countdown"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default"><img src="https://gituweh.vercel.app/api/pin?username=itshaiheree&repo=tahun-baru-countdown&show_owner=true&theme=default" align="center" /></picture></a>
-</div>
-<br clear="right" />
-<hr>
-
-### 📊 My Github Stats
-
-<div align="center">
-
-[![My GitHub stats-Dark](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/itshaiheree#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub stats-Light](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/itshaiheree#gh-light-mode-only)&nbsp;&nbsp;[![My GitHub repo-Dark](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/itshaiheree#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub repo-Light](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=default#gh-light-mode-only)](https://github.com/itshaiheree#gh-light-mode-only)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="itshaiheree's GitHub profile" src="dark_mode.svg" width="850" height="850"/>
-</picture>
-</div>
-<hr>
-
 ### 🔗 Links
 
 [![Website](https://img.shields.io/badge/Website-mhai.my.id-000000?style=flat&logo=googlechrome&logoColor=white)](https://mhai.my.id)&nbsp;&nbsp;
@@ -34,6 +13,16 @@
 [![X](https://img.shields.io/badge/X%20(inavtive)-@mieayampwangsit-000000?style=flat&logo=x&logoColor=white)](https://x.com/mieayampwangsit)&nbsp;&nbsp;
 [![Letterboxd](https://img.shields.io/badge/Letterboxd-akuanaksehatt-00C030?style=flat&logo=letterboxd&logoColor=white)](https://boxd.it/idWKF)&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-mhaikal.alia-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mhaikal.alia)
+&nbsp;
+<hr>
+
+### 📊 My Github Stats
+
+<div align="center">
+&nbsp;
+  
+[![My GitHub stats-Dark](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/itshaiheree#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub stats-Light](https://gituweh.vercel.app/api?username=itshaiheree&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/itshaiheree#gh-light-mode-only)&nbsp;&nbsp;[![My GitHub repo-Dark](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/itshaiheree#gh-dark-mode-only)&nbsp;&nbsp;&nbsp;[![My GitHub repo-Light](https://gituweh.vercel.app/api/top-langs?username=itshaiheree&layout=compact&theme=default#gh-light-mode-only)](https://github.com/itshaiheree#gh-light-mode-only)
+</div>
 
 <hr>
 
