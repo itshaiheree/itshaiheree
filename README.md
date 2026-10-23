@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align="left"><h2>👋 Hi there!</h2><img src="https://c.tenor.com/l9Q1RLUr2x4AAAAd/tenor.gif" width="150" align="right" /><h3>I'm Muhammad Haikal Ali Abdillah!</h3>You can call me <b>"Haikal"</b> (also <b>"Hai"</b>)<br><br>Just an ordinary kid from Indonesia who loves code and her :3</div>
+<div align="left"><h2>👋 Hi there!</h2><img src="https://c.tenor.com/l9Q1RLUr2x4AAAAd/tenor.gif" width="150" align="right" /><h3>I'm Muhammad Haikal Ali Abdillah!</h3>You can call me <b>"Haikal"</b> (also <b>"Hai"</b>)<br/><br/>Just an ordinary kid from Indonesia who loves code and her :3<br/>Currently build <a href="https://nijushicorp.biz.id">Nijushi Corp.</a>, <a href="https://tipbox.id">TipBox</a>, and <a href="https://rukogamer.com">RukoGamer</a></div>
 <br clear="right" />
 <hr>
 
